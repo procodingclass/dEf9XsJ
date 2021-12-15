@@ -1,2 +1,1 @@
-# swing-to-survive
-Sling Game
+# Tablet-SPCK-PRO-C32-Student-Activity
